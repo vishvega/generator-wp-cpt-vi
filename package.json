@@ -1,0 +1,30 @@
+{
+  "name": "generator-wp-cpt-vi",
+  "version": "1.0.0",
+  "description": "Wordpress custom post type with Yo",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishvega/generator-wp-cpt-vi.git"
+  },
+  "author": "Vishwa LiyanaArachchi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vishvega/generator-wp-cpt-vi/issues"
+  },
+  "homepage": "https://github.com/vishvega/generator-wp-cpt-vi#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  }
+}
